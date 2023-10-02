@@ -28,6 +28,6 @@ class Heroi {
     }
   }
   
-  //
+  // Alterar o tipo de herói na segunda entrada const heroi = new Heroi('Herói1', 25, 'monge');
   const heroi = new Heroi('Herói1', 25, 'monge');
   heroi.atacar();
